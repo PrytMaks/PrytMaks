@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PrytMaks
 - 👀 I’m interested in ... programming, but i'm newbie
 - 🌱 I’m currently learning JavaScript for Web Development
-- 💞️ I’m looking to collaborate on ... google =D ohh dreams
 - 📫 How to reach me ... 
 
 <!---
