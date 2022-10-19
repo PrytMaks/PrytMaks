@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PrytMaks
-- 👀 My CW https://www.codewars.com/users/PrytMaks/
+- 👀 My CW https://www.codewars.com/users/rsschool_792b977d19fb27b3
 - 🌱 I’m currently learning JavaScript for Web Development
 
 <!---
